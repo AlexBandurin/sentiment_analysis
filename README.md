@@ -21,6 +21,7 @@ This initiative is in its early stage, with a focus on data collection and estab
 <p align="left">
 <img src="https://github.com/AlexBandurin/sentiment_analysis/blob/master/news_headlines.png"  width="60%" height="60%">
 </p>
+
 ### Dataset containing headlines along with "sentiment" attained from GPT integration
 <p align="left">
 <img src="https://github.com/AlexBandurin/sentiment_analysis/blob/master/headlines_excel.png"  width="50%" height="50%">
