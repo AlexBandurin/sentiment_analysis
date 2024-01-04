@@ -2,19 +2,19 @@
 
 # Project Overview
 
-This project aims to develop an advanced market sentiment analysis tool leveraging various data sources, including newsfeeds, to monitor and interpret the market dynamics for a specific cryptocurrency. The core objective is to generate regular buy/sell recommendations by analyzing the sentiment and emerging trends within the market.
+This project is aimed at developing a sophisticated analysis tool for digital assets on the blockchain, utilizing various data sources including newsfeeds. The primary objective is to monitor and interpret the dynamics of the digital asset market. The goal is to provide regular buy/sell recommendations based on the analysis of market sentiment and emerging trends.
 
 ## Current Phase of Development:
 
-- **Data Collection**: Initiating the compilation of a comprehensive dataset comprising news articles, headlines, and other relevant textual content. This may extend to include social media inputs, such as tweets, to enrich the dataset.
-- **Integration with APIs**: Planning to utilize APIs (e.g., Google Search API) to streamline the process of acquiring real-time news feeds and live pricing data.
+- **Data Collection**: Commencing the compilation of a comprehensive dataset comprising news articles, headlines, and other relevant textual content. This dataset might also include social media inputs like tweets to enrich the analysis.
+- **Integration with APIs**: Implementing APIs (such as the Google Search API) to facilitate the acquisition of real-time news feeds and live pricing data for digital assets.
 
 ## Future Goals:
 
-- **Model Training**: The project envisions training a sophisticated model that can effectively correlate external factors, such as news sentiment and social media trends, with cryptocurrency price movements.
-- **Historical Data Analysis**: Incorporating historical price data to enhance the model's predictive accuracy and reliability.
+- **Model Training**: The project envisions the development of an advanced model to effectively correlate external factors, such as news sentiment and social media trends, with movements in the value of digital assets.
+- **Historical Data Analysis**: Incorporating historical pricing data to enhance the predictive accuracy and reliability of the model.
 
-This initiative is in its nascent stage, focusing on dataset accrual and the establishment of a robust framework for data processing and analysis. The ultimate aim is to create a tool that not only tracks market sentiment but also predicts potential price fluctuations based on a wide array of external factors.
+This initiative is in its formative stage, with a focus on data collection and establishing a robust framework for data processing and analysis. The ultimate goal is to craft a tool capable of not just tracking market sentiment but also predicting potential value changes in digital assets based on a range of external factors.
 
 
 News headlines (from Google search):
