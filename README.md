@@ -19,9 +19,9 @@ This initiative is in its nascent stage, focusing on dataset accrual and the est
 
 News headlines (from Google search):
 <p align="left">
-<img src="https://github.com/AlexBandurin/sentiment_analysis/blob/master/news_headlines.png"  width="40%" height="40%">
+<img src="https://github.com/AlexBandurin/sentiment_analysis/blob/master/news_headlines.png"  width="60%" height="60%">
 </p>
 Dataset containing headlines along with "sentiment" attained from GPT integration
 <p align="left">
-<img src="https://github.com/AlexBandurin/sentiment_analysis/blob/master/headlines_excel.png"  width="30%" height="30%">
+<img src="https://github.com/AlexBandurin/sentiment_analysis/blob/master/headlines_excel.png"  width="50%" height="50%">
 </p>
