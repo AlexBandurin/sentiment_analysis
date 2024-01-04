@@ -14,14 +14,14 @@ This project is aimed at developing a sophisticated analysis tool for digital as
 - **Model Training**: The project envisions the development of an advanced model to effectively correlate external factors, such as news sentiment and social media trends, with movements in the value of digital assets.
 - **Historical Data Analysis**: Incorporating historical pricing data to enhance the predictive accuracy and reliability of the model.
 
-This initiative is in its formative stage, with a focus on data collection and establishing a robust framework for data processing and analysis. The ultimate goal is to craft a tool capable of not just tracking market sentiment but also predicting potential value changes in digital assets based on a range of external factors.
+This initiative is in its early stage, with a focus on data collection and establishing a robust framework for data processing and analysis. The ultimate goal is to craft a tool capable of not just tracking market sentiment but also predicting potential value changes in digital assets based on a range of external factors.
 
 
-News headlines (from Google search):
+### News headlines (from Google search)
 <p align="left">
 <img src="https://github.com/AlexBandurin/sentiment_analysis/blob/master/news_headlines.png"  width="60%" height="60%">
 </p>
-Dataset containing headlines along with "sentiment" attained from GPT integration
+### Dataset containing headlines along with "sentiment" attained from GPT integration
 <p align="left">
 <img src="https://github.com/AlexBandurin/sentiment_analysis/blob/master/headlines_excel.png"  width="50%" height="50%">
 </p>
