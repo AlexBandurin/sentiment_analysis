@@ -26,3 +26,7 @@ This initiative is in its early stage, with a focus on data collection and estab
 <p align="left">
 <img src="https://github.com/AlexBandurin/sentiment_analysis/blob/master/headlines_excel.png"  width="50%" height="50%">
 </p>
+
+## Knowledge Sources
+
+[STOCK TREND PREDICTION USING NEWS SENTIMENT ANALYSIS](https://arxiv.org/pdf/1607.01958.pdf)
