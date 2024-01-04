@@ -29,4 +29,4 @@ This initiative is in its early stage, with a focus on data collection and estab
 
 ## Knowledge Sources
 
-[STOCK TREND PREDICTION USING NEWS SENTIMENT ANALYSIS](https://arxiv.org/pdf/1607.01958.pdf)
+[Stock Trend Prediction Using News Sentiment Analysis](https://arxiv.org/pdf/1607.01958.pdf)
