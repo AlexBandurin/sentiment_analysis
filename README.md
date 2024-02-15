@@ -5,8 +5,9 @@
 The primary objective of this project is to develop a tool to monitor and interpret the sentiment towards a company using news text data to come up with a prediction for future price change (percent change) using a Large Language Model (GPT) tool. The goal is to provide regular buy/sell recommendations based on the analysis of market sentiment and emerging trends.
 
 ## Phases of Development:
-
-# - **Data Collection**: Commencing the compilation of a comprehensive dataset comprising news articles, headlines, and other relevant textual content. This dataset might also include social media inputs like tweets to enrich the analysis.
+<!---
+- **Data Collection**: Commencing the compilation of a comprehensive dataset comprising news articles, headlines, and other relevant textual content. This dataset might also include social media inputs like tweets to enrich the analysis.
+-->
 - **Web Scraping**: Using web scraping tools like Beautiful Soup and Selenium for collecting and parsing HTML code from web pages containing relevant data.
 - **LLM Integration**: Using LLM prompting techniques, a set of instructions are provided to GPT 3.5 along with article text. LangChain is used to communicate with the language model in a Python environment.
 - **Internet Research**: Collecting historical stock data for correlation analysis and model development. 
@@ -26,7 +27,7 @@ This initiative is in its early stage, with a focus on data collection and estab
 <img src="https://github.com/AlexBandurin/sentiment_analysis/blob/master/news_articles.png"  width="60%" height="60%">
 </p>
 
-#### Dataset containing headlines along with "sentiment" attained from GPT integration
+#### Dataset news data along with "sentiment" attained from GPT integration and other metrics
 <p align="left">
 <img src="https://github.com/AlexBandurin/sentiment_analysis/blob/master/articles_excel.png"  width="50%" height="50%">
 </p>
