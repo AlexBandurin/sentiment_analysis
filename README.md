@@ -24,12 +24,12 @@ This initiative is in its early stage, with a focus on data collection and estab
 
 #### News headlines (from Yahoo Finance)
 <p align="left">
-<img src="https://github.com/AlexBandurin/sentiment_analysis/blob/master/news_articles.png"  width="40%" height="40%">
+<img src="https://github.com/AlexBandurin/sentiment_analysis/blob/master/news_articles.png"  width="37%" height="40%">
 </p>
 
 #### Dataset news data along with "sentiment" attained from GPT integration and other metrics
 <p align="left">
-<img src="https://github.com/AlexBandurin/sentiment_analysis/blob/master/articles_excel.png"  width="60%" height="60%">
+<img src="https://github.com/AlexBandurin/sentiment_analysis/blob/master/articles_excel.png"  width="67%" height="67%">
 </p>
 
 ## Knowledge Sources
