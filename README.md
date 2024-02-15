@@ -6,7 +6,7 @@ The primary objective of this project is to develop a tool to monitor and interp
 
 ## Phases of Development:
 
-<> - **Data Collection**: Commencing the compilation of a comprehensive dataset comprising news articles, headlines, and other relevant textual content. This dataset might also include social media inputs like tweets to enrich the analysis.
+# - **Data Collection**: Commencing the compilation of a comprehensive dataset comprising news articles, headlines, and other relevant textual content. This dataset might also include social media inputs like tweets to enrich the analysis.
 - **Web Scraping**: Using web scraping tools like Beautiful Soup and Selenium for collecting and parsing HTML code from web pages containing relevant data.
 - **LLM Integration**: Using LLM prompting techniques, a set of instructions are provided to GPT 3.5 along with article text. LangChain is used to communicate with the language model in a Python environment.
 - **Internet Research**: Collecting historical stock data for correlation analysis and model development. 
@@ -23,12 +23,12 @@ This initiative is in its early stage, with a focus on data collection and estab
 
 #### News headlines (from Yahoo Finance)
 <p align="left">
-<img src="https://github.com/AlexBandurin/sentiment_analysis/blob/master/news_headlines.png"  width="60%" height="60%">
+<img src="https://github.com/AlexBandurin/sentiment_analysis/blob/master/news_articles.png"  width="60%" height="60%">
 </p>
 
 #### Dataset containing headlines along with "sentiment" attained from GPT integration
 <p align="left">
-<img src="https://github.com/AlexBandurin/sentiment_analysis/blob/master/headlines_excel.png"  width="50%" height="50%">
+<img src="https://github.com/AlexBandurin/sentiment_analysis/blob/master/articles_excel.png"  width="50%" height="50%">
 </p>
 
 ## Knowledge Sources
