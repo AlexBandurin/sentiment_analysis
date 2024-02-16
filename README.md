@@ -1,6 +1,6 @@
 # sentiment_analysis
 
-# Project Overview
+## Project Overview
 
 The primary objective of this project is to develop a tool to monitor and interpret the sentiment towards a company using news text data to come up with a prediction for future price change (percent change) using a Large Language Model (GPT) tool. The goal is to provide regular buy/sell recommendations based on the analysis of market sentiment and emerging trends.
 
@@ -12,6 +12,10 @@ The primary objective of this project is to develop a tool to monitor and interp
 - **LLM Integration**: Using LLM prompting techniques, a set of instructions are provided to GPT 3.5 along with article text. LangChain is used to communicate with the language model in a Python environment.
 - **Internet Research**: Collecting historical stock data for correlation analysis and model development. 
 - **Integration with APIs**: Implementing APIs to access live stock price data.
+
+## Methodology:
+
+Using web scraping tools, news article data is collected. This includes the headline, date and time published, url, body text. The body text is passed to GPT. The output includes a sentiment score (1-5) as well as other features that would help decide if the article is relevant to the analysis and provide a set of parameters to identify article's category and themes (opinion, analysis, product launch, etc). After cleaning the output and filtering it to leave only usable data, a correlation analysis is conducted of sentiment scores and historical stock price over time. 
 
 <!---
 ## Future Goals:
