@@ -16,7 +16,7 @@ The primary objective of this project is to develop a tool to monitor and interp
 ## Methodology:
 
 Using web scraping tools, news article data is collected. This includes the headline, date and time published, url, body text. The body text is passed to GPT. The output includes a sentiment score (1-5) as well as other features that would help decide if the article is relevant to the analysis and provide a set of parameters to identify article's category and themes (opinion, analysis, product launch, etc). After cleaning the output and filtering it to leave only usable data, a correlation analysis is conducted of sentiment scores and historical stock price over time. 
-
+[Python Notebook](https://github.com/AlexBandurin/sentiment_analysis/blob/master/Yahoo_news_scrape.ipynb)
 <!---
 ## Future Goals:
 
