@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The primary objective of this project is to develop a tool to monitor and interpret the sentiment towards a company using news text data to come up with a prediction for future price change (percent change) using a Large Language Model (GPT) tool. The goal is to provide regular buy/sell recommendations based on the analysis of market sentiment and emerging trends.
+The primary objective of this project is to develop a tool to monitor and interpret the sentiment towards a company using news text data using a Large Language Model (GPT) tool. The goal is to provide regular buy/sell recommendations based on the analysis of market sentiment and emerging trends.
 
 ## Phases of Development:
 <!---
@@ -15,7 +15,7 @@ The primary objective of this project is to develop a tool to monitor and interp
 
 ## Methodology:
 
-Using web scraping tools, news article data is collected. This includes the headline, date and time published, url, body text. The body text is passed to GPT. The output includes a sentiment score (1-5) as well as other features that would help decide if the article is relevant to the analysis and provide a set of parameters to identify article's category and themes (opinion, analysis, product launch, etc). After cleaning the output and filtering it to leave only usable data, a correlation analysis is conducted of sentiment scores and historical stock price over time.\
+Using web scraping tools, news article data is collected. This includes the headline, date and time published, url, body text. The body text is passed to GPT. The output includes a sentiment score (1-5) as well as other features that would help decide if the article is relevant to the analysis and provide a set of parameters to identify article's category and themes (opinion, analysis, product launch, etc). 
 [Python Notebook](https://github.com/AlexBandurin/sentiment_analysis/blob/master/Yahoo_news_scrape.ipynb)
 <!---
 ## Future Goals:
@@ -24,6 +24,8 @@ Using web scraping tools, news article data is collected. This includes the head
 - **Historical Data Analysis**: Incorporating historical pricing data to enhance the predictive accuracy and reliability of the model.
 
 This initiative is in its early stage, with a focus on data collection and establishing a robust framework for data processing and analysis. The ultimate goal is to craft a tool capable of not just tracking market sentiment but also predicting potential value changes in digital assets based on a range of external factors.
+
+After cleaning the output and filtering it to leave only usable data, a correlation analysis is conducted of sentiment scores and historical stock price over time.\
 -->
 
 #### News headlines (from Yahoo Finance)
