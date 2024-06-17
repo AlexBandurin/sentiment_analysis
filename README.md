@@ -2,8 +2,7 @@
 
 ## Project Overview
 
-The primary objective of this project is to develop a tool to monitor and interpret the sentiment towards a company using news text data using a Large Language Model (GPT) tool. The goal is to provide regular buy/sell recommendations based on the analysis of market sentiment and emerging trends.
-
+The primary objective of this project is to develop a tool to monitor and interpret the sentiment towards a company using news text data using a Large Language Model (GPT) tool. 
 ## Phases of Development:
 <!---
 - **Data Collection**: Commencing the compilation of a comprehensive dataset comprising news articles, headlines, and other relevant textual content. This dataset might also include social media inputs like tweets to enrich the analysis.
@@ -25,7 +24,10 @@ Using web scraping tools, news article data is collected. This includes the head
 
 This initiative is in its early stage, with a focus on data collection and establishing a robust framework for data processing and analysis. The ultimate goal is to craft a tool capable of not just tracking market sentiment but also predicting potential value changes in digital assets based on a range of external factors.
 
-After cleaning the output and filtering it to leave only usable data, a correlation analysis is conducted of sentiment scores and historical stock price over time.\
+After cleaning the output and filtering it to leave only usable data, a correlation analysis is conducted of sentiment scores and historical stock price over time.
+
+The goal is to provide regular buy/sell recommendations based on the analysis of market sentiment and emerging trends.
+
 -->
 
 #### News headlines (from Yahoo Finance)
