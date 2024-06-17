@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-The primary objective of this project is to develop a tool to monitor and interpret the sentiment towards a company using news text data using a Large Language Model (GPT) tool. 
+The primary objective of this project is to develop a tool to monitor and interpret the sentiment towards a company using news text data using GPT language model. 
+
 ## Phases of Development:
 <!---
 - **Data Collection**: Commencing the compilation of a comprehensive dataset comprising news articles, headlines, and other relevant textual content. This dataset might also include social media inputs like tweets to enrich the analysis.
@@ -12,7 +13,7 @@ The primary objective of this project is to develop a tool to monitor and interp
 
 ## Methodology:
 
-Using web scraping tools, news article data is collected. This includes the headline, date and time published, url, body text. The body text is passed to GPT. The output includes a sentiment score (1-5) as well as other features that would help decide if the article is relevant to the analysis and provide a set of parameters to identify article's category and themes (opinion, analysis, product launch, etc). 
+Using web scraping tools, news article data is collected. This includes the headline, date and time published, url, body text. The body text is passed to GPT. The output includes a sentiment score (1-5) as well as other features that would help decide if the article is relevant to the analysis and provide a set of parameters to identify article's category and themes (opinion, analysis, product launch, etc). The article data is passed to GPT via Langchain in Python.
 [Python Notebook](https://github.com/AlexBandurin/sentiment_analysis/blob/master/Yahoo_news_scrape.ipynb)
 <!---
 ## Future Goals:
