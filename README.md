@@ -9,8 +9,6 @@ The primary objective of this project is to develop a tool to monitor and interp
 -->
 - **Web Scraping**: Using web scraping tools like Beautiful Soup and Selenium for collecting and parsing HTML code from web pages containing relevant data.
 - **LLM Integration**: Using LLM prompting techniques, a set of instructions are provided to GPT 3.5 along with article text. LangChain is used to communicate with the language model in a Python environment.
-- **Internet Research**: Collecting historical stock data for correlation analysis and model development. 
-- **Integration with APIs**: Implementing APIs to access live stock price data.
 
 ## Methodology:
 
@@ -28,6 +26,8 @@ After cleaning the output and filtering it to leave only usable data, a correlat
 
 The goal is to provide regular buy/sell recommendations based on the analysis of market sentiment and emerging trends.
 
+- **Internet Research**: Collecting historical stock data for correlation analysis and model development. 
+- **Integration with APIs**: Implementing APIs to access live stock price data.
 -->
 
 #### News headlines (from Yahoo Finance)
